@@ -206,10 +206,6 @@ The next stages are intended to extend the work beyond dashboard reporting:
 
 These are development goals, not completed capabilities. The final scope will depend on data availability, permissions, spatial resolution and methodological validation. The current report does not use Turkcell data and does not imply Turkcell endorsement or an established data-sharing agreement.
 
-## Author
-
-**İrem Buğday** — SoftITO Data Analytics participant, with a previous internship in Turkcell Network Technologies and a particular interest in telecommunications, network analytics and software development.
-
 ## Sources and Attribution
 
 - [Ofcom Connected Nations Update: Spring 2025](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-update-spring-2025) — January 2025 reference snapshot.
